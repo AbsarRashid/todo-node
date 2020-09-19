@@ -1,6 +1,6 @@
-## First Attempt to Node JS and Express JS
+# First Attempt to Node JS and Express JS
 
-# Create Basic Todo with GET POST DELETE
+## Create Basic Todo with GET POST DELETE
 
 1. HTML
 2. CSS
